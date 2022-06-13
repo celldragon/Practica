@@ -17,6 +17,7 @@ public class Practica {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Edison Sanchez");
+        System.out.println("El de arriba es gay");
     }
     
 }
